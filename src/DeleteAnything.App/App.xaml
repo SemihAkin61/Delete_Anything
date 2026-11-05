@@ -1,0 +1,17 @@
+<Application x:Class="DeleteAnything.App.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             ShutdownMode="OnMainWindowClose">
+    <Application.Resources>
+        <SolidColorBrush x:Key="BgPrimary" Color="#0F172A"/>
+        <SolidColorBrush x:Key="BgSecondary" Color="#1E293B"/>
+        <SolidColorBrush x:Key="BgCard" Color="#26334D"/>
+        <SolidColorBrush x:Key="BorderBrushColor" Color="#334155"/>
+        <SolidColorBrush x:Key="TextPrimary" Color="#F8FAFC"/>
+        <SolidColorBrush x:Key="TextSecondary" Color="#94A3B8"/>
+        <SolidColorBrush x:Key="AccentRed" Color="#EF4444"/>
+        <SolidColorBrush x:Key="AccentBlue" Color="#3B82F6"/>
+        <SolidColorBrush x:Key="AccentAmber" Color="#F59E0B"/>
+        <SolidColorBrush x:Key="AccentGreen" Color="#10B981"/>
+    </Application.Resources>
+</Application>

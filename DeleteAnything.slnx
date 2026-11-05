@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DeleteAnything.App/DeleteAnything.App.csproj" />
+    <Project Path="src/DeleteAnything.Cli/DeleteAnything.Cli.csproj" />
+    <Project Path="src/DeleteAnything.Core/DeleteAnything.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DeleteAnything.Tests/DeleteAnything.Tests.csproj" />
+  </Folder>
+</Solution>
