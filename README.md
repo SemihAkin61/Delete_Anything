@@ -28,6 +28,17 @@ Windows'ta **"Dosya başka bir programda açık"**, **"Klasör kullanımda"**, *
 
 ---
 
+## ⚡ Kurulum
+
+Kullanıcının bilgisayarında hiçbir şey yüklü olmasa bile tek tıkla kurulabilir:
+
+1. Projeyi indirin (`Code -> Download ZIP` veya `git clone`).
+2. Klasör içindeki **`Kurulum.bat`** dosyasına çift tıklayın (veya PowerShell'de `install.ps1` çalıştırın).
+3. **Akıllı Kontrol:** Sistemde gerekli bileşenler (.NET) yoksa size sorar; onay verirseniz otomatik tamamlar, cihazınız uygunsa doğrudan `Delete_Anything.exe`'yi oluşturup masaüstü kısayolunu ve sağ tık menüsünü aktif eder.
+4. Kurulum bittikten sonra arka planda hiçbir servis veya script çalışmaz!
+
+---
+
 ## Kullanım
 
 ### 1. Masaüstü Uygulaması (`Delete_Anything.exe`)
